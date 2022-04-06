@@ -17,3 +17,7 @@ h1,h2, h3, .h1, .h2, .h3{
     background-repeat: no-repeat;
     background-size: 130%;
 }
+
+.border-bottom-dotted{
+    border-bottom:dotted;
+}
